@@ -98,4 +98,34 @@ export const featureProject = [
         company:"FR Builders",
         url:"https://cdn.staticmb.com/property/microsite/new-banners/feature-project/shubh-grah-homes-indirapuram-ghaziabad/img.jpg",
     },
+    {
+        id : "5",
+        title : "New Town",
+        price : 0,
+        address : "Sector 34, Nodia",
+        company : "Espace builders",
+        url : "https://cdn.staticmb.com/property/microsite/new-banners/feature-project/shubh-grah-homes-indirapuram-ghaziabad/img.jpg",
+    },
+    {
+        id : "6",
+        title : "New space",
+        price : 0,
+        address : "Sector 11, Nodia",
+        company : "Titan Ventures",
+        url : "https://cdn.staticmb.com/property/microsite/new-banners/feature-project/shubh-grah-homes-indirapuram-ghaziabad/img.jpg",
+    },
+    {
+        id : "7",
+        title : "Harbour Edge",
+        address : "Sector 17, Noida",
+        company : "Human Hub",
+        url : "https://cdn.staticmb.com/property/microsite/new-banners/feature-project/shubh-grah-homes-indirapuram-ghaziabad/img.jpg",
+    },
+    {
+        id : "8",
+        title : "High fly",
+        address : "Sector 19, Noida",
+        company : "Tim choice",
+        url : "https://cdn.staticmb.com/property/microsite/new-banners/feature-project/shubh-grah-homes-indirapuram-ghaziabad/img.jpg",
+    }
 ]
